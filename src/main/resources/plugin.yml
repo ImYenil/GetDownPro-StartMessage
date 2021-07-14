@@ -1,0 +1,5 @@
+name: GetDownPro-StartMessage
+main: net.choco.getdownpro.Main
+version: 1.2
+api-version: 1.13
+softdepend: [GetDownPro]
